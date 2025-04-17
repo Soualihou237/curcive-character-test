@@ -11,11 +11,11 @@ The proposed model comprises three primary steps: data collection (in which imag
   * Clone the repository: `git clone https://github.com/LeeKwonWoo/CursiveCharacterPrediction.git`
   * Installed the requierement: 
   	- `Python version 3.8.0`
- 	  - `TensorFlow 2.5.0 library`
-    - `CUDA-Toolkit 11.0`
-    - `Virtual device with Android version 9`
-    - `Model’s name Nexus 5X, API 28`
-    - `Application's SDK was 30`
+ 	 - `TensorFlow 2.5.0 library`
+   - `CUDA-Toolkit 11.0`
+   - `Virtual device with Android version 9`
+   - `Model’s name Nexus 5X, API 28`
+   - `Application's SDK was 30`
 
 ### Preprare the dataset
  After downloading the datasets from Zenodo, place place each subset in the specified directories:
